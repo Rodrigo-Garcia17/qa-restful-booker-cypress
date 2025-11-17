@@ -1,0 +1,16 @@
+{
+  "name": "qa-restful-booker-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes API Restful Booker com Cypress e Allure.",
+  "scripts": {
+    "test": "cypress run",
+    "test:allure": "cypress run",
+    "allure:report": "allure generate allure-results --clean",
+    "allure:open": "allure open"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.2",
+    "ajv": "^8.12.0",
+    "allure-commandline": "^2.29.0"
+  }
+}
