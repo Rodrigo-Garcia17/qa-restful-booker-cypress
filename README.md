@@ -76,13 +76,8 @@ Funcionalidade: Reservas - Criar nova reserva
 
 📊 Casos de Teste (Matriz)
 
-📄 Download Excel:
-🔗 https://seu-link-excel-aqui.com
- (substituir quando subir o arquivo)
-
 🌐 Google Sheets:
-🔗 https://seu-link-google-sheets-aqui.com
- (substituir quando publicar)
+🔗 https://docs.google.com/spreadsheets/d/1VZqYTzJct-DDGsgjSvS8P_FULuiJ__sy/edit?gid=1202820172#gid=1202820172
 
  📈 Relatório Allure
 
@@ -104,7 +99,7 @@ npm run allure:open
 
 As evidências podem incluir:
 
-📌 Capturas de tela
+📌 Capturas de tela link: https://drive.google.com/drive/folders/1sr4YGC0MRpHepaq_d-LUIKll9dKXuZHX?usp=drive_link
 📌 HAR / cURL
 📌 Execução em vídeo (opcional)
 📌 Links do Allure Report
